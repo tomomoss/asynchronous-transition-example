@@ -4,4 +4,4 @@
 
 以下より動作をご覧ください。
 
-[]()
+[動作ページ](https://tomomoss.github.io/asynchronous-transition-example/)
